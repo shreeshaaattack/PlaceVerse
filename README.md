@@ -3,6 +3,8 @@
 PlaceVerse is a responsive travel-discovery web application focused on destinations across India. It helps visitors browse places, explore destination details, filter the catalogue, compare locations, save favourites and prepare sample multi-day itineraries.
 
 > **Project status:** PlaceVerse is currently a frontend prototype. User preferences, saved places, trip selections and prototype moderation data are stored in the browser using `localStorage`. There is no shared backend database or production authentication in this version.
+>[Visit PlaceVerse](https://place-verse-eight.vercel.app/)
+
 
 ## Features
 
